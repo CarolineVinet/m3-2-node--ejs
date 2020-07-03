@@ -1,0 +1,26 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 36px;
+  color: white;
+  padding-top: 60px;
+  padding-left: 40px;
+}
+
+p {
+  color: white;
+  padding-left: 40px;
+}
+
+a {
+  color: white;
+}
+
+img {
+  width: 700px;
+  height: 600px;
+  margin-left: 400px;
+}
